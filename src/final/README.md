@@ -26,6 +26,6 @@ Teclas de manejo:
 
 - Tecla "Enter" para aplicar el solver
 
-Video del ejercicio de manejo del solver junto a las animaciones propuestas: [video](https://drive.google.com/file/d/1GuAQKyuK7WWQZ2yJthAKGcgwpQz_sKrR/view)
+Video del ejercicio de manejo del solver junto a las animaciones propuestas: [video](https://drive.google.com/file/d/1GuAQKyuK7WWQZ2yJthAKGcgwpQz_sKrR/view?usp=sharing)
 
 
