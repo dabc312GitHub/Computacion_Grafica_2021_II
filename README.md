@@ -1,6 +1,6 @@
 **Cubo de Rubik**
 
-Este aplicativo permite resolver  el cubo de rubik utilizando el algoritmo de [Rubenmp]([GitHub - Rubenmp/Rubik: This program solves Rubik&#39;s cube 3x3](https://github.com/Rubenmp/Rubik))
+Este aplicativo permite resolver  el cubo de rubik utilizando el algoritmo de (Rubenmp)[GitHub - Rubenmp/Rubik: This program solves Rubik&#39;s cube 3x3](https://github.com/Rubenmp/Rubik))
 
 Para resolver este algoritmo en OpenGL se necesitó del conocimiento de las sigueintes herramientas:
 
@@ -26,6 +26,6 @@ Teclas de manejo:
 
 - Tecla "Enter" para aplicar el solver
 
-Video del ejercicio de manejo del solver junto a las animaciones propuestas: [video]([Descubre Google Drive: un lugar para todos tus archivos](https://drive.google.com/file/d/1GuAQKyuK7WWQZ2yJthAKGcgwpQz_sKrR/view?usp=sharing)
+Video del ejercicio de manejo del solver junto a las animaciones propuestas: [video](https://drive.google.com/file/d/1GuAQKyuK7WWQZ2yJthAKGcgwpQz_sKrR/view?usp=sharing)
 
 
