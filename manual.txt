@@ -1,0 +1,9 @@
+Al ejecutar el programa se acceder a las siguientes opciones
+Tecla "Escape" para salir del programa
+Tecla "U" para la cara de arriba
+Tecla "D" para la cara de abajo
+Tecla "F" para la cara de frente
+Tecla "B" para la cara de atras
+Tecla "R" para la cara de derecha
+Tecla "L" para la cara de izquierda
+Tecla "Enter" para aplicar el solver
